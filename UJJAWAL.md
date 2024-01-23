@@ -12,4 +12,4 @@ React, Node.js, MongoDB, MySQL, HTML, CSS, PHP, and JavaScript are some of the s
 
 I like to code, play outdoor games, and watch movies.
 
-> You can connect with me on [LinkedIn](https://www.linkedin.com/in/ujjawal-shrestha-855682159/)
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/ujjawal-shrestha-855682159/)
